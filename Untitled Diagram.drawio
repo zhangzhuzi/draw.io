@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T15:22:30.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ida2-zkvXUVIAuV6a4FT" version="20.8.23" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-01T15:34:52.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="I2x1JHWY5NSJP3cm_r7N" version="20.8.23" type="github" pages="12">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="2074" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -731,7 +731,7 @@
             <mxPoint x="-742" y="346.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IY1OgBzSJskHA12aWTBQ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PP&lt;br&gt;Agent&lt;/font&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
+        <mxCell id="IY1OgBzSJskHA12aWTBQ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PP&lt;br&gt;Agent&lt;/font&gt;" style="text;html=1;strokeColor=#212121;fillColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
           <mxGeometry x="-877" y="173.75" width="54.5" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="IY1OgBzSJskHA12aWTBQ-2" value="&lt;span style=&quot;&quot;&gt;业务服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#000000;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
@@ -782,7 +782,7 @@
         <mxCell id="IY1OgBzSJskHA12aWTBQ-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;业务集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#000000;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
           <mxGeometry x="-814.5" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UpsmzlXT3k1ey_MQhfb9-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PP&lt;br&gt;Agent&lt;/font&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
+        <mxCell id="UpsmzlXT3k1ey_MQhfb9-0" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PP&lt;br&gt;Agent&lt;/font&gt;" style="text;html=1;strokeColor=#171716;fillColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=15;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
           <mxGeometry x="-877" y="252.5" width="54.5" height="53.75" as="geometry" />
         </mxCell>
         <mxCell id="UpsmzlXT3k1ey_MQhfb9-6" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;客户端日志收集&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;" parent="BvGn-r105O0iovRdk_Pz-1" vertex="1">
