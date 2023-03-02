@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T23:35:25.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_iBCEOLCUXV7GwzYIUJG" version="20.8.23" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-03-02T23:35:39.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0AdIYXkciIewlU0HJKkW" version="20.8.23" type="github" pages="17">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2382,7 +2382,7 @@
       <root>
         <mxCell id="VE5oqlY7k7aPhCvL1ht7-0" />
         <mxCell id="VE5oqlY7k7aPhCvL1ht7-1" parent="VE5oqlY7k7aPhCvL1ht7-0" />
-        <mxCell id="VE5oqlY7k7aPhCvL1ht7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VE5oqlY7k7aPhCvL1ht7-1">
+        <mxCell id="VE5oqlY7k7aPhCvL1ht7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" vertex="1" parent="VE5oqlY7k7aPhCvL1ht7-1">
           <mxGeometry x="-1305" y="711" width="130" height="99" as="geometry" />
         </mxCell>
         <mxCell id="VE5oqlY7k7aPhCvL1ht7-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;登录WA个人账号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VE5oqlY7k7aPhCvL1ht7-1">
