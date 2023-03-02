@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T16:51:48.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="I6dwFw9At-UT4v8b-xdS" version="20.8.23" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-03-02T17:00:34.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Kr4Z_TckTe7EwZF4SLGe" version="20.8.23" type="github" pages="16">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2296,7 +2296,7 @@
         <mxCell id="689L2lUiIdSh8rSOpGq--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="689L2lUiIdSh8rSOpGq--2" target="689L2lUiIdSh8rSOpGq--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="689L2lUiIdSh8rSOpGq--2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="689L2lUiIdSh8rSOpGq--2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="641" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="689L2lUiIdSh8rSOpGq--3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sender绑定&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -2314,7 +2314,7 @@
         <mxCell id="689L2lUiIdSh8rSOpGq--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="689L2lUiIdSh8rSOpGq--8" target="689L2lUiIdSh8rSOpGq--14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="689L2lUiIdSh8rSOpGq--8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="689L2lUiIdSh8rSOpGq--8" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1085" y="641" width="130" height="220" as="geometry" />
         </mxCell>
         <mxCell id="689L2lUiIdSh8rSOpGq--9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文本模板&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -2362,7 +2362,7 @@
         <mxCell id="689L2lUiIdSh8rSOpGq--23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;回复&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-590" y="690" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="689L2lUiIdSh8rSOpGq--24" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="689L2lUiIdSh8rSOpGq--24" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-680" y="771" width="170" height="89" as="geometry" />
         </mxCell>
         <mxCell id="689L2lUiIdSh8rSOpGq--25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;一对一聊天&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
