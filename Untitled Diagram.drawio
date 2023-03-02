@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:31:08.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="V7dEYkOLMWCjzMJN0Obg" version="20.8.23" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-03-02T14:39:00.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kmuYGscOPx67ArXD8HJT" version="20.8.23" type="github" pages="14">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
-    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2243,57 +2243,50 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YifTNK0l0ujXB_Gu3xKZ" name="WhatsApp流程图">
-    <mxGraphModel dx="3435" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1670" y="90" width="270" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="p3HKzvfmrZsMrHl49GvG-1" value="&lt;div data-processon-v=&quot;{&amp;quot;list&amp;quot;:[{&amp;quot;parent&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;link&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;shapeStyle&amp;quot;:{&amp;quot;alpha&amp;quot;:1},&amp;quot;textBlock&amp;quot;:[{&amp;quot;position&amp;quot;:{&amp;quot;w&amp;quot;:&amp;quot;w&amp;quot;,&amp;quot;x&amp;quot;:0,&amp;quot;h&amp;quot;:&amp;quot;h&amp;quot;,&amp;quot;y&amp;quot;:0},&amp;quot;text&amp;quot;:&amp;quot;模板服务&amp;quot;}],&amp;quot;anchors&amp;quot;:[],&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;fontStyle&amp;quot;:{&amp;quot;size&amp;quot;:13,&amp;quot;textAlign&amp;quot;:&amp;quot;center&amp;quot;,&amp;quot;bold&amp;quot;:true,&amp;quot;vAlign&amp;quot;:&amp;quot;middle&amp;quot;},&amp;quot;dataAttributes&amp;quot;:[],&amp;quot;props&amp;quot;:{&amp;quot;zindex&amp;quot;:5,&amp;quot;w&amp;quot;:80.41029919047014,&amp;quot;x&amp;quot;:936.5453854734463,&amp;quot;h&amp;quot;:41.144474771802834,&amp;quot;y&amp;quot;:328.02993776980685,&amp;quot;angle&amp;quot;:0},&amp;quot;path&amp;quot;:[{&amp;quot;lineStyle&amp;quot;:{&amp;quot;lineWidth&amp;quot;:0},&amp;quot;fillStyle&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;none&amp;quot;},&amp;quot;actions&amp;quot;:[{&amp;quot;x&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;move&amp;quot;,&amp;quot;y&amp;quot;:&amp;quot;0&amp;quot;},{&amp;quot;x&amp;quot;:&amp;quot;w&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;line&amp;quot;,&amp;quot;y&amp;quot;:&amp;quot;0&amp;quot;},{&amp;quot;x&amp;quot;:&amp;quot;w&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;line&amp;quot;,&amp;quot;y&amp;quot;:&amp;quot;h&amp;quot;},{&amp;quot;x&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;line&amp;quot;,&amp;quot;y&amp;quot;:&amp;quot;h&amp;quot;},{&amp;quot;action&amp;quot;:&amp;quot;close&amp;quot;}]}],&amp;quot;lineStyle&amp;quot;:{},&amp;quot;children&amp;quot;:[],&amp;quot;resizeDir&amp;quot;:[&amp;quot;tl&amp;quot;,&amp;quot;tr&amp;quot;,&amp;quot;br&amp;quot;,&amp;quot;bl&amp;quot;],&amp;quot;name&amp;quot;:&amp;quot;standardText&amp;quot;,&amp;quot;fillStyle&amp;quot;:{&amp;quot;imageW&amp;quot;:100,&amp;quot;display&amp;quot;:&amp;quot;stretch&amp;quot;,&amp;quot;imageH&amp;quot;:100,&amp;quot;type&amp;quot;:&amp;quot;image&amp;quot;,&amp;quot;fileId&amp;quot;:&amp;quot;https://iconsapi.com/5ee26557e4b0b788a93313c3.svg&amp;quot;},&amp;quot;theme&amp;quot;:{},&amp;quot;id&amp;quot;:&amp;quot;CPvSXAqJWv829286&amp;quot;,&amp;quot;attribute&amp;quot;:{&amp;quot;container&amp;quot;:false,&amp;quot;rotatable&amp;quot;:true,&amp;quot;visible&amp;quot;:true,&amp;quot;collapsable&amp;quot;:false,&amp;quot;collapsed&amp;quot;:false,&amp;quot;linkable&amp;quot;:false,&amp;quot;markerOffset&amp;quot;:5},&amp;quot;category&amp;quot;:&amp;quot;standard&amp;quot;,&amp;quot;locked&amp;quot;:false,&amp;quot;group&amp;quot;:&amp;quot;&amp;quot;}],&amp;quot;client&amp;quot;:&amp;quot;1677687890839twrvjlNIDu877034&amp;quot;}&quot; data-t=&quot;flow&quot;&gt; &lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#f42525;" parent="1" vertex="1">
           <mxGeometry x="170" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="1" source="0jNeJ7Qlmra76DWiIWPM-1" target="0jNeJ7Qlmra76DWiIWPM-13">
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=classic;startFill=1;" parent="1" source="0jNeJ7Qlmra76DWiIWPM-1" target="0jNeJ7Qlmra76DWiIWPM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-1654" y="122" width="240" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Infobip sdk&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1579" y="90" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Outbound Messages&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="132" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Inbound Messages&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="172" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Message Status Report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="212" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Identity Manament&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="292" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Service Manament&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="252" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startArrow=classic;startFill=1;" edge="1" parent="1" source="0jNeJ7Qlmra76DWiIWPM-13" target="0jNeJ7Qlmra76DWiIWPM-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Infobip&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1360" y="208" width="100" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;WhatsApp Business API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1220" y="208" width="170" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;翻译Whatsapp接口返回&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1629" y="340" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0jNeJ7Qlmra76DWiIWPM-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;startArrow=classic;startFill=1;exitX=0.004;exitY=0.457;exitDx=0;exitDy=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="0jNeJ7Qlmra76DWiIWPM-12">
+        <mxCell id="Le1a9qlCnr7qzmXotlII-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="0jNeJ7Qlmra76DWiIWPM-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1680" y="240" as="sourcePoint" />
-            <mxPoint x="-1720" y="228" as="targetPoint" />
+            <mxPoint x="-1150" y="335" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-1110" y="230" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Infobip sdk&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1035" y="198" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Outbound Messages&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Inbound Messages&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Message Status Report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Identity Manament&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Service Manament&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1085" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startArrow=classic;startFill=1;" parent="1" source="0jNeJ7Qlmra76DWiIWPM-13" target="0jNeJ7Qlmra76DWiIWPM-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Infobip&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-816" y="316" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="0jNeJ7Qlmra76DWiIWPM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;WhatsApp Business API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-676" y="316" width="170" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
