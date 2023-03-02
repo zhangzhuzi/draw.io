@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:39:00.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kmuYGscOPx67ArXD8HJT" version="20.8.23" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-03-02T15:12:23.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zMJeNPD-XFbXM_VoGub0" version="20.8.23" type="github" pages="14">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2190,7 +2190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VVYtHy5h9TTQDFj9teS8" name="全链路日志查询流程">
-    <mxGraphModel dx="2608" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2243,7 +2243,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YifTNK0l0ujXB_Gu3xKZ" name="WhatsApp流程图">
-    <mxGraphModel dx="3728" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2286,7 +2286,22 @@
           <mxGeometry x="-816" y="316" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0jNeJ7Qlmra76DWiIWPM-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;WhatsApp Business API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-676" y="316" width="170" height="38" as="geometry" />
+          <mxGeometry x="-670" y="316" width="170" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HvGQhFIjnvmOha5ns75H-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="HvGQhFIjnvmOha5ns75H-2" target="HvGQhFIjnvmOha5ns75H-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvGQhFIjnvmOha5ns75H-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;绑定Sender&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="640" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="HvGQhFIjnvmOha5ns75H-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HvGQhFIjnvmOha5ns75H-4" target="HvGQhFIjnvmOha5ns75H-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HvGQhFIjnvmOha5ns75H-4" value="消息模板申请" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HvGQhFIjnvmOha5ns75H-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="629" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
