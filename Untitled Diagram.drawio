@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T05:09:26.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-Ahf9i4ynhqmNydYEdh9" version="20.8.23" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-03T05:11:19.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mlIDrC6DQqR2kNtunDZJ" version="20.8.23" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2495,7 +2495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="OPENAPI发信流程" id="K3R1vQcquJgO7IC1AWJw">
-    <mxGraphModel dx="2608" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2848" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fplnqkOBrWAOMKkUe3gd-0" />
         <mxCell id="fplnqkOBrWAOMKkUe3gd-1" parent="fplnqkOBrWAOMKkUe3gd-0" />
@@ -2612,7 +2612,7 @@
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-17" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;解析模版内容，变量替换&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1130" y="1239.5" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=12;jumpStyle=arc;" edge="1" parent="fplnqkOBrWAOMKkUe3gd-1" target="aDVj3ZAN3UnxXx0VoDyr-7">
+        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;jumpStyle=arc;" edge="1" parent="fplnqkOBrWAOMKkUe3gd-1" target="aDVj3ZAN3UnxXx0VoDyr-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1150" y="1350" as="sourcePoint" />
             <mxPoint x="-580" y="1261" as="targetPoint" />
@@ -2621,6 +2621,11 @@
               <mxPoint x="-1150" y="1380" />
               <mxPoint x="-550" y="1380" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-22" value="发送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="EtzVeQ5u5W_-xsBMM5xw-21">
+          <mxGeometry x="-0.0095" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-18" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;发信总额度/日额度扣减&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
@@ -2634,6 +2639,14 @@
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-22" value="阅读" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-900" y="1169.5" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-23" style="edgeStyle=elbowEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fplnqkOBrWAOMKkUe3gd-1" source="aDVj3ZAN3UnxXx0VoDyr-23" target="aDVj3ZAN3UnxXx0VoDyr-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-550" y="1190" />
+              <mxPoint x="-550" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-23" value="回复" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-800" y="1170" width="85" height="40" as="geometry" />
@@ -2668,8 +2681,8 @@
         <mxCell id="EtzVeQ5u5W_-xsBMM5xw-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业OpenId&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1435" y="1271" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;鉴权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1405" y="1080" width="60" height="30" as="geometry" />
+        <mxCell id="EtzVeQ5u5W_-xsBMM5xw-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;鉴权&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1400" y="1089.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EtzVeQ5u5W_-xsBMM5xw-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用ID&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1435" y="1130" width="120" height="60" as="geometry" />
