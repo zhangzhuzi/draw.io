@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T04:37:11.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xbChP03PWJw_RW5NKJUv" version="20.8.23" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-03T04:46:50.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1B3gfWbBrQCKVBFyaI1H" version="20.8.23" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2568,31 +2568,52 @@
           <mxGeometry x="-1431" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1255" y="1070" width="445" height="240" as="geometry" />
+          <mxGeometry x="-1255" y="1070" width="475" height="330" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-1" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1230" y="1109" width="280" height="131" as="geometry" />
+          <mxGeometry x="-1230" y="1109" width="280" height="261" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-5" value="参数校验" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-5" value="校验" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1196" y="1119" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-6" value="邮件追踪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-930" y="1109" width="120" height="60" as="geometry" />
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-920" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业邮&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-780" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="-700" y="1209.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-8" value="鉴权" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1396" y="1100" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-9" value="组信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1196" y="1079" width="50" height="30" as="geometry" />
+          <mxGeometry x="-1104.5" y="1074" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-10" value="批量发送营销邮件流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1155" y="1010" width="160" height="30" as="geometry" />
+          <mxGeometry x="-1097.5" y="1020" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;邮件组成员解析&lt;/li&gt;&lt;li&gt;模版内容解析，替换变量&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1135" y="1104" width="200" height="70" as="geometry" />
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;接口权限校验&lt;/li&gt;&lt;li&gt;参数校验&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1128" y="1104" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-12" value="收信人解析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1196" y="1174" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-13" value="模版解析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1196" y="1230" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-14" value="额度扣减" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1196" y="1290" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-15" value="邮件追踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-900" y="1074" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-16" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;邮件组成员解析&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1130" y="1169" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-17" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;解析模版内容，变量替换&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1130" y="1225" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-18" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;发信总额度/日额度&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1130" y="1285" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
