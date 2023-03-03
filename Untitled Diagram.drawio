@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T04:34:03.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5m_lQIZcXVVl55ZMQkil" version="20.8.23" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-03T04:37:11.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xbChP03PWJw_RW5NKJUv" version="20.8.23" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2571,10 +2571,10 @@
           <mxGeometry x="-1255" y="1070" width="445" height="240" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-1" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1230" y="1109" width="150" height="131" as="geometry" />
+          <mxGeometry x="-1230" y="1109" width="280" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-5" value="发送" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-925" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-5" value="参数校验" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1196" y="1119" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-6" value="邮件追踪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-930" y="1109" width="120" height="60" as="geometry" />
@@ -2590,6 +2590,9 @@
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-10" value="批量发送营销邮件流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-1155" y="1010" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-11" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li&gt;邮件组成员解析&lt;/li&gt;&lt;li&gt;模版内容解析，替换变量&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1135" y="1104" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
