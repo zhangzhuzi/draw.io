@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T04:28:55.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cZ7VNvsdeUz8IIJFQX7_" version="20.8.23" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-03T04:29:16.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rvttrd8_pc9ESqJf2KmP" version="20.8.23" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2578,6 +2578,9 @@
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-6" value="邮件追踪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-960" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业邮&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-780" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
