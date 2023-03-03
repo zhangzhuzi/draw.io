@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T04:29:16.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rvttrd8_pc9ESqJf2KmP" version="20.8.23" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-03T04:34:03.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5m_lQIZcXVVl55ZMQkil" version="20.8.23" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2564,23 +2564,32 @@
         <mxCell id="fplnqkOBrWAOMKkUe3gd-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ThreadLocal&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
           <mxGeometry x="-925" y="756" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;获取调用凭证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1430" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-0" value="s" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1431" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=15;arcSize=3;dashed=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1255" y="920" width="435" height="100" as="geometry" />
+          <mxGeometry x="-1255" y="1070" width="445" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-1" value="组信" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1230" y="940" width="120" height="60" as="geometry" />
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-1" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1230" y="1109" width="150" height="131" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-5" value="发送" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-1094" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-925" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-6" value="邮件追踪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-960" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-930" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDVj3ZAN3UnxXx0VoDyr-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业邮&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
-          <mxGeometry x="-780" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-8" value="鉴权" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1396" y="1100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-9" value="组信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1196" y="1079" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aDVj3ZAN3UnxXx0VoDyr-10" value="批量发送营销邮件流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="fplnqkOBrWAOMKkUe3gd-1">
+          <mxGeometry x="-1155" y="1010" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
