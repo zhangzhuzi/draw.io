@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T10:58:57.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="AJV3dFjgzad0EneET51D" version="21.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-03-04T10:59:28.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="62XFJnZ8jjrJopUnTM0z" version="21.0.2" type="github" pages="18">
   <diagram id="SZeqILC4WRQRvYrKo_g2" name="灵犀架构图">
     <mxGraphModel dx="1247" dy="1124" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2177,16 +2177,16 @@
         <mxCell id="m_NLVcbxNlV6Q9XS-OtF-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillStyle=auto;fontSize=14;fillColor=#fad9d5;strokeColor=#ae4132;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
           <mxGeometry x="-1460" y="976" width="40" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="m_NLVcbxNlV6Q9XS-OtF-1" value="&lt;font color=&quot;#333333&quot;&gt;红色块表示项目、模块Owner&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
+        <mxCell id="m_NLVcbxNlV6Q9XS-OtF-1" value="&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;红色块表示项目、模块Owner&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
           <mxGeometry x="-1414" y="970" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m_NLVcbxNlV6Q9XS-OtF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillStyle=auto;fontSize=14;fillColor=#cce5ff;strokeColor=#36393d;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
           <mxGeometry x="-1230" y="976" width="40" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="m_NLVcbxNlV6Q9XS-OtF-3" value="&lt;font color=&quot;#333333&quot;&gt;蓝色块表示核心开发&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
+        <mxCell id="m_NLVcbxNlV6Q9XS-OtF-3" value="&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;蓝色块表示核心开发&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="K501k2DoAl_qs4nxN3xM-1" vertex="1">
           <mxGeometry x="-1180" y="970" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OzCRm8_aLm7XF6s9vmLt-0" value="&lt;font color=&quot;#333333&quot;&gt;后续图文中同理&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="K501k2DoAl_qs4nxN3xM-1">
+        <mxCell id="OzCRm8_aLm7XF6s9vmLt-0" value="&lt;font color=&quot;#333333&quot;&gt;&lt;b&gt;后续图文中同理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="K501k2DoAl_qs4nxN3xM-1">
           <mxGeometry x="-1030" y="970" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
